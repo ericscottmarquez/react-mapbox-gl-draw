@@ -1,5 +1,5 @@
 {
-  "_from": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
+  "_from": "@ericscott/react-mapbox-gl-draw-fix@2.0.5",
   "_inBundle": false,
   "_integrity": "sha512-oaBdIlyu+g7PhLUvwnCsl/wvu+5tGB9I3RLjcrYLt6U1sUMzQJqplKtVxXRv9TZqRdNaAU5qNOP+dRs55QKjsA==",
   "_location": "/react-mapbox-gl-draw",
@@ -7,12 +7,12 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
+    "raw": "@ericscott/react-mapbox-gl-draw-fix@2.0.5",
     "name": "@ericscott/react-mapbox-gl-draw-fix",
     "escapedName": "react-mapbox-gl-draw",
-    "rawSpec": "2.0.4",
+    "rawSpec": "2.0.5",
     "saveSpec": null,
-    "fetchSpec": "2.0.4"
+    "fetchSpec": "2.0.5"
   },
   "_requiredBy": [
     "/"
@@ -68,7 +68,7 @@
     "test": "echo skipped for now."
   },
   "types": "lib/index.d.ts",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "directories": {
     "lib": "lib"
   }
