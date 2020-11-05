@@ -1,5 +1,5 @@
 {
-  "_from": "@ericscott/react-mapbox-gl-draw@2.0.4",
+  "_from": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
   "_inBundle": false,
   "_integrity": "sha512-oaBdIlyu+g7PhLUvwnCsl/wvu+5tGB9I3RLjcrYLt6U1sUMzQJqplKtVxXRv9TZqRdNaAU5qNOP+dRs55QKjsA==",
   "_location": "/react-mapbox-gl-draw",
@@ -7,8 +7,8 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@ericscott/react-mapbox-gl-draw@2.0.4",
-    "name": "@ericscott/react-mapbox-gl-draw",
+    "raw": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
+    "name": "@ericscott/react-mapbox-gl-draw-fix",
     "escapedName": "react-mapbox-gl-draw",
     "rawSpec": "2.0.4",
     "saveSpec": null,
@@ -52,7 +52,7 @@
   "homepage": "https://github.com/ericscottmarquez/react-mapbox-gl-draw",
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "@ericscott/react-mapbox-gl-draw",
+  "name": "@ericscott/react-mapbox-gl-draw-fix",
   "peerDependencies": {
     "@mapbox/mapbox-gl-draw": "^1.1.2",
     "@types/mapbox-gl": "^1.6.1",
