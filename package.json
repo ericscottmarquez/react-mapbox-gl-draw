@@ -19,11 +19,8 @@
   ],
   "_spec": "2.0.4",
   "_where": "/home/eric/Desktop/projects/portal",
-  "author": "Amaury Martiny <amaury.martiny@protonmail.com>, edited by Eric Scott Marquez: ericscottmarquez@gmail.com",
-  "bugs": {
-    "url": "https://github.com/amaurymartiny/react-mapbox-gl-draw/issues"
-  },
-  "description": "Draw tools for Mapbox witha  fix for wrong import for @mapbox/mapbox-gl-draw - with React: react-mapbox-gl + mapbox-gl-draw",
+  "author": "Original by Amaury Martiny <amaury.martiny@protonmail.com>, edited by Eric Scott Marquez: ericscottmarquez@gmail.com",
+  "description": "Draw tools for Mapbox with a fix for wrong import for @mapbox/mapbox-gl-draw - with React: react-mapbox-gl + mapbox-gl-draw",
   "devDependencies": {
     "@amaurymartiny/config": "^1.0.10",
     "@babel/core": "^7.7.7",
