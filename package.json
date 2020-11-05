@@ -6,7 +6,6 @@
     ]
   ],
   "_from": "react-mapbox-gl-draw@2.0.4",
-  "_id": "react-mapbox-gl-draw@2.0.4",
   "_inBundle": false,
   "_integrity": "sha512-oaBdIlyu+g7PhLUvwnCsl/wvu+5tGB9I3RLjcrYLt6U1sUMzQJqplKtVxXRv9TZqRdNaAU5qNOP+dRs55QKjsA==",
   "_location": "/react-mapbox-gl-draw",
@@ -27,10 +26,7 @@
   "_resolved": "https://registry.npmjs.org/react-mapbox-gl-draw/-/react-mapbox-gl-draw-2.0.4.tgz",
   "_spec": "2.0.4",
   "_where": "/home/eric/Desktop/projects/portal",
-  "author": {
-    "name": "Amaury Martiny",
-    "email": "amaury.martiny@protonmail.com"
-  },
+  "author": "Amaury Martiny <amaury.martiny@protonmail.com>, edited by ericscottmarquez@gmail.com",
   "bugs": {
     "url": "https://github.com/amaurymartiny/react-mapbox-gl-draw/issues"
   },
@@ -63,7 +59,7 @@
   "homepage": "https://github.com/amaurymartiny/react-mapbox-gl-draw#readme",
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "react-mapbox-gl-draw",
+  "name": "@ericscott/react-mapbox-gl-draw",
   "peerDependencies": {
     "@mapbox/mapbox-gl-draw": "^1.1.2",
     "@types/mapbox-gl": "^1.6.1",
@@ -82,5 +78,8 @@
     "test": "echo skipped for now."
   },
   "types": "lib/index.d.ts",
-  "version": "2.0.4"
+  "version": "2.0.4",
+  "directories": {
+    "lib": "lib"
+  }
 }
