@@ -1,22 +1,20 @@
 {
-  "_from": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
+  "_from": "@ericscott/react-mapbox-gl-draw-fix@2.0.4.1",
   "_inBundle": false,
-  "_integrity": "sha512-oaBdIlyu+g7PhLUvwnCsl/wvu+5tGB9I3RLjcrYLt6U1sUMzQJqplKtVxXRv9TZqRdNaAU5qNOP+dRs55QKjsA==",
   "_location": "/react-mapbox-gl-draw",
-  "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@ericscott/react-mapbox-gl-draw-fix@2.0.4",
+    "raw": "@ericscott/react-mapbox-gl-draw-fix@2.0.4.1",
     "name": "@ericscott/react-mapbox-gl-draw-fix",
-    "rawSpec": "2.04",
+    "rawSpec": "2.0.4.1",
     "saveSpec": null,
-    "fetchSpec": "2.0.4"
+    "fetchSpec": "2.0.4.1"
   },
   "_requiredBy": [
     "/"
   ],
-  "_spec": "2.0.4",
+  "_spec": "2.0.4.1",
   "author": "Original by Amaury Martiny <amaury.martiny@protonmail.com>, edited by Eric Scott Marquez: ericscottmarquez@gmail.com",
   "description": "Draw tools for Mapbox with a fix for wrong import for @mapbox/mapbox-gl-draw - with React: react-mapbox-gl + mapbox-gl-draw",
   "devDependencies": {
@@ -66,7 +64,7 @@
     "test": "echo skipped for now."
   },
   "types": "lib/index.d.ts",
-  "version": "2.0.4",
+  "version": "2.0.4.1",
   "directories": {
     "lib": "lib"
   }
