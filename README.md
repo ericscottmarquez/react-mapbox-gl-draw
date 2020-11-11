@@ -1,4 +1,6 @@
-# react-mapbox-gl-draw
+# react-mapbox-gl-draw-fix for broken package dependency import causing map to fail to load
+
+
 
 [![Actions Status](https://github.com/amaurymartiny/react-mapbox-gl-draw/workflows/pr/badge.svg)](https://github.com/amaurymartiny/react-mapbox-gl-draw/actions)
 [![npm](https://img.shields.io/npm/v/react-mapbox-gl-draw.svg)](https://www.npmjs.com/package/react-mapbox-gl-draw)
